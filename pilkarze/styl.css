@@ -1,0 +1,66 @@
+body
+{
+    background-image: url("tlo_strona.jpg");
+    font-family: 'Open Sans', sans-serif;
+}
+h1.napis
+{
+    font-size: 100px;
+    color: #DDDDDD;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 37px;
+    letter-spacing: 1px;
+}
+.tab
+{
+width: 50%;
+margin: auto;
+color: black;
+background-color: #FAFAFA;
+border: 3px solid #111111;
+border-collapse: collapse;
+font-family: 'Trebuchet MS';
+}
+td
+{
+border: 3px solid #111111;
+}
+th
+{
+border: 3px solid #111111;
+}
+h3.po
+{
+    color: #DDDDDD;
+    font-size: 40px;
+    text-align: center;
+}
+#wgtmsr
+{
+     width:500px;
+}
+.przyc
+{
+    margin-top: 50px;
+    height:80px;
+    width:200px;
+    font-size: 40px;
+}
+.pole
+{
+   margin: 0 auto;
+   text-align: center;
+   margin-left: 45%;
+   width: 10%;
+   height: 40px;
+   font-size: 28px;
+}
+.guzik
+{
+    margin-left: 40%;
+    height: 50px;
+    font-size: 28px;
+    width: 20%;
+}
